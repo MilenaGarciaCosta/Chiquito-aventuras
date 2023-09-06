@@ -16,7 +16,7 @@ body {
   flex-direction: column;
   gap: 5px;
   background-image: url("img/bg-pixel-ofc.png");
-  background-size: contain;
+  background-size: cover;
 }
 
 h2 {
