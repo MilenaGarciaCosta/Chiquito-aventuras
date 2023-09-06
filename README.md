@@ -1,4 +1,4 @@
-# Chiquito-aventuras
+# 🪙 Chiquito-aventuras
 
 Simples mas objetivo, chiquito aventuras é um jogo onde os alunos devem escolher a alternativa que acha mais coerente para preencher a lacuna na frase apresentada.
 
