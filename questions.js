@@ -1,6 +1,6 @@
 export default[
     {
-        question: "Nunca te ________ de viajar en avión.",
+        question: "Nunca te ________ viajar en avión.",
         answers: [
             {option: "he gustado", correct: false},
             {option: "has gustado", correct: true},
@@ -11,7 +11,7 @@ export default[
         ],
     },
     {
-        question: "Hoy ________ mucho y ha sido muy provechoso.",
+        question: "Hoy he despertado temprano y ________ mucho, ha sido muy provechoso.",
         answers: [
             {option: "he estudiado", correct: true},
             {option: "has estudiado", correct: false},
@@ -22,7 +22,7 @@ export default[
         ],
     },
     {
-        question: "Vosotros ________ el éxame de matematica.",
+        question: "¿Vosotros ________ el éxamen de matematicas?",
         answers: [
             {option: "he hecho", correct: false},
             {option: "has hecho", correct: false},
@@ -33,7 +33,7 @@ export default[
         ],
     },
     {
-        question: "Ayer ________ un té y dormí como un bebé.",
+        question: "Durante esta semana ________ un té y he dormido como un bebé.",
         answers: [
             {option: "he tomado", correct: true},
             {option: "has tomado", correct: false},
